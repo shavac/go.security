@@ -1,4 +1,4 @@
-go.security rbac
+##go.security rbac
 ==================
 
 Go Security rbac provides Role Based Access Control.
@@ -6,8 +6,8 @@ Go Security rbac provides Role Based Access Control.
 API list:
 =========
 
-##type Role struct {}
+type Role struct {}
 
-##func HasRole(role string) bool
+func HasRole(role string) bool
 
-##func Has
+func Has
